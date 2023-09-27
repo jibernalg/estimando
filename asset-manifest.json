@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/estimando/static/css/main.3b84a895.css",
-    "main.js": "/estimando/static/js/main.8e8cfed5.js",
+    "main.js": "/estimando/static/js/main.ed4efe3e.js",
     "static/media/ciudad.png": "/estimando/static/media/ciudad.f31ce0639af9218a1355.png",
     "static/media/ppto1.png": "/estimando/static/media/ppto1.9495592f78f0787c2578.png",
     "static/media/planeacion1.png": "/estimando/static/media/planeacion1.b84c82579cb689157a69.png",
@@ -9,10 +9,10 @@
     "static/media/Building3.png": "/estimando/static/media/Building3.6459217db4582b2c4f4d.png",
     "index.html": "/estimando/index.html",
     "main.3b84a895.css.map": "/estimando/static/css/main.3b84a895.css.map",
-    "main.8e8cfed5.js.map": "/estimando/static/js/main.8e8cfed5.js.map"
+    "main.ed4efe3e.js.map": "/estimando/static/js/main.ed4efe3e.js.map"
   },
   "entrypoints": [
     "static/css/main.3b84a895.css",
-    "static/js/main.8e8cfed5.js"
+    "static/js/main.ed4efe3e.js"
   ]
 }
