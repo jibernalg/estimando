@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac252f64.css",
+    "main.js": "/static/js/main.e757bc8f.js",
+    "static/media/ciudad.png": "/static/media/ciudad.f31ce0639af9218a1355.png",
+    "static/media/ppto1.png": "/static/media/ppto1.9495592f78f0787c2578.png",
+    "static/media/planeacion1.png": "/static/media/planeacion1.b84c82579cb689157a69.png",
+    "static/media/flujo1.png": "/static/media/flujo1.c17fcdd215e9641b783f.png",
+    "static/media/Building3.png": "/static/media/Building3.6459217db4582b2c4f4d.png",
+    "index.html": "/index.html",
+    "main.ac252f64.css.map": "/static/css/main.ac252f64.css.map",
+    "main.e757bc8f.js.map": "/static/js/main.e757bc8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac252f64.css",
+    "static/js/main.e757bc8f.js"
+  ]
+}
