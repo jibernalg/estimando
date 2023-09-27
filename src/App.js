@@ -18,6 +18,7 @@ function App() {
       <BrowserRouter basename="/estimando">
         <Header />
         <Routes>
+          <Route path="/" element={<Inicio />} index />
           <Route path="/inicio" element={<Inicio />} />
           <Route path="/nosotros" element={<Nosotros />} />
           <Route path="/servicios" element={<Servicios />} />
