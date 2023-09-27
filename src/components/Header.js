@@ -14,7 +14,7 @@ const Header = () => {
         <nav className="header-nav">
           <ul>
             <li>
-              <Link className="no-underline" to="/">
+              <Link className="no-underline" to="/inicio">
                 <a href="#">Inicio</a>
               </Link>
             </li>
