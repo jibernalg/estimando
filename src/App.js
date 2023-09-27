@@ -18,10 +18,10 @@ function App() {
       <BrowserRouter basename="/estimando">
         <Header />
         <Routes>
-          <Route path="/inicio" element={<Inicio />} />
-          <Route path="/nosotros" element={<Nosotros />} />
-          <Route path="/servicios" element={<Servicios />} />
-          <Route path="/contacto" element={<Contacto />} />
+          <Route path="/estimando/inicio" element={<Inicio />} />
+          <Route path="/estimando/nosotros" element={<Nosotros />} />
+          <Route path="/estimando/servicios" element={<Servicios />} />
+          <Route path="/estimando/contacto" element={<Contacto />} />
         </Routes>
         <Footer />
       </BrowserRouter>
