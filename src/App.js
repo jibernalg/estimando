@@ -15,7 +15,7 @@ import Contacto from "./components/Contacto";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/estimando">
         <Header />
         <Routes>
           <Route path="/inicio" element={<Inicio />} />
