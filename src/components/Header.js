@@ -14,24 +14,24 @@ const Header = () => {
         <nav className="header-nav">
           <ul>
             <li>
-              <Link className="no-underline" to="/estimando/inicio">
+              <Link className="no-underline" to="/inicio">
                 <a href="#">Inicio</a>
               </Link>
             </li>
             <li>
-              <Link className="no-underline" to="/estimando/nosotros">
+              <Link className="no-underline" to="/nosotros">
                 <a href="#">Nosotros</a>
               </Link>
             </li>
             <li>
-              <Link className="no-underline" to="/estimando/servicios">
+              <Link className="no-underline" to="/servicios">
                 <a href="#">Servicios</a>
               </Link>
             </li>
             
 
             <li>
-              <Link className="no-underline" to="/estimando/contacto">
+              <Link className="no-underline" to="/contacto">
                 <a href="#">Contactenos</a>
               </Link>
             </li>
