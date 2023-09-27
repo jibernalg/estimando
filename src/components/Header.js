@@ -15,7 +15,7 @@ const Header = () => {
           <ul>
             <li>
               <Link className="no-underline" to="/inicio">
-                <a href="#">Inicio</a>
+                <a href="#">Inicios</a>
               </Link>
             </li>
             <li>
